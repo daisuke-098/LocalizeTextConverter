@@ -117,64 +117,66 @@ func main() {
 `
 	var i int
 	//タグが入らないようにNから
-	for i = N; i < len(rows); i++ {
-		keyCell, _ := excelize.CoordinatesToCellName(keyCol+1, i)
-		keyValue, err := excel.GetCellValue(SheetName, keyCell)
-		if err != nil {
-			log.Fatal(err)
-		}
-		if keyValue != "" || strings.HasPrefix(keyValue, "_") {
-			cultureCell, _ := excelize.CoordinatesToCellName(cultureCol["JA"]+1, i)
-			cultureValue, err := excel.GetCellValue(SheetName, cultureCell)
+	for _, cultureCode := range cultureCodes {
+		for i = N; i < len(rows); i++ {
+			keyCell, _ := excelize.CoordinatesToCellName(keyCol+1, i)
+			keyValue, err := excel.GetCellValue(SheetName, keyCell)
 			if err != nil {
 				log.Fatal(err)
 			}
-			manifestOutput += `		{
-			"Source":
-			{
-				"Text": "` + keyValue + `"
-			},
-			"Keys": [
-				{
-					"Key": "` + keyValue + `",
-					"Path": ""
+			if keyValue != "" || strings.HasPrefix(keyValue, "_") {
+				cultureCell, _ := excelize.CoordinatesToCellName(cultureCol[cultureCode]+1, i)
+				cultureValue, err := excel.GetCellValue(SheetName, cultureCell)
+				if err != nil {
+					log.Fatal(err)
 				}
-			]
-		},
-`
-			archiveOutput += `		{
-			"Source":
-			{
-				"Text": "` + keyValue + `"
+				manifestOutput += `		{
+				"Source":
+				{
+					"Text": "` + keyValue + `"
+				},
+				"Keys": [
+					{
+						"Key": "` + keyValue + `",
+						"Path": ""
+					}
+				]
 			},
-			"Translation":
-			{
-				"Text": "` + cultureValue + `"
+	`
+				archiveOutput += `		{
+				"Source":
+				{
+					"Text": "` + keyValue + `"
+				},
+				"Translation":
+				{
+					"Text": "` + cultureValue + `"
+				}
+			},
+	`
 			}
-		},
-`
+
 		}
+		strings.TrimRight(manifestOutput, ",")
+		manifestOutput += `	]
+	}`
+		strings.TrimRight(archiveOutput, ",")
+		archiveOutput += `	]
+	}`
 
-	}
-	strings.TrimRight(manifestOutput, ",")
-	manifestOutput += `	]
-}`
-	strings.TrimRight(archiveOutput, ",")
-	archiveOutput += `	]
-}`
+		//言語ごとのローカライズデータを出力する
+		manifestFile, err := os.Create(OutputDir + "Localization/ue4res_text.manifest")
+		if err != nil {
+			log.Fatal(err)
+		}
+		defer manifestFile.Close()
+		archiveFile, err := os.Create(OutputDir + "Localization/" + cultureCode + "/ue4res_text.archive")
+		if err != nil {
+			log.Fatal(err)
+		}
+		defer archiveFile.Close()
 
-	//言語ごとのローカライズデータを出力する
-	manifestFile, err := os.Create(OutputDir + "Localization/ue4res_text.manifest")
-	if err != nil {
-		log.Fatal(err)
+		manifestFile.Write(([]byte)(manifestOutput))
+		archiveFile.Write(([]byte)(archiveOutput))
 	}
-	defer manifestFile.Close()
-	archiveFile, err := os.Create(OutputDir + "Localization/ja/ue4res_text.archive")
-	if err != nil {
-		log.Fatal(err)
-	}
-	defer archiveFile.Close()
-
-	manifestFile.Write(([]byte)(manifestOutput))
-	archiveFile.Write(([]byte)(archiveOutput))
 }

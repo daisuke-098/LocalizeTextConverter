@@ -3,2035 +3,2035 @@
 	"Namespace": "",
 	"Children": [
 		{
-			"Source":
-			{
-				"Text": "テキストID
+				"Source":
+				{
+					"Text": "テキストID
 （カテゴリID＋識別名称）"
-			},
-			"Translation":
-			{
-				"Text": "JA"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "TextID"
-			},
-			"Translation":
-			{
-				"Text": ""
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "string"
-			},
-			"Translation":
-			{
-				"Text": ""
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "1"
-			},
-			"Translation":
-			{
-				"Text": ""
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "1"
-			},
-			"Translation":
-			{
-				"Text": ""
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "dummy"
-			},
-			"Translation":
-			{
-				"Text": ""
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "kb_n_none"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "kb_n_star"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "kb_n_rock"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "km_n_none"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "km_f_none"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "km_n_mithril"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "km_f_mithril"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "km_n_herbleaf"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "km_f_herbleaf"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "km_n_copper"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "km_f_copper"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "km_n_clearwater"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "km_f_clearwater"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "pi_n_sora1"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "pi_f_sora1"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "pi_n_sora3"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "pi_f_sora3"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "pi_n_gufi1"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "pi_f_gufi1"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "pi_n_gufi3"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "pi_f_gufi3"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "pi_n_dona1"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "pi_f_dona1"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "pi_n_dona3"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "pi_f_dona3"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "aa_n_none"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "aa_d_none"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "aa_n_fireattack"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "aa_d_fireattack"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "aa_n_longreflect"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "aa_d_longreflect"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "aa_n_blizzard"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "aa_d_blizzard"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "pa_n_none"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "pa_d_none"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "pa_n_hpup"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "pa_d_hpup"
-			},
-			"Translation":
-			{
-				"Text": "最大HPが %5.2f 上昇する。"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "pa_n_mpup"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "pa_d_mpup"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "pa_n_attackup"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "pa_d_attackup"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "pa_n_comboplus"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "pa_d_comboplus"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "tf_n_red"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "tf_n_black"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "tf_n_white"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "tf_n_gold"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "tf_n_blue"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "tr_n_sorcerer"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "tr_n_swordsman"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "tr_n_pierrot"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "tr_n_beginner"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "tr_n_master"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "of_n_m_trick_or_treat_hat"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "of_n_m_trick_or_treat_top"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "of_n_m_trick_or_treat_watch"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "of_n_m_trick_or_treat_gloves"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "of_n_m_trick_or_treat_bottom"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "of_n_m_trick_or_treat_shoes"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "of_n_l_trick_or_treat_hat"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "of_n_l_trick_or_treat_top"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "of_n_l_trick_or_treat_watch"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "of_n_l_trick_or_treat_gloves"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "of_n_l_trick_or_treat_bottom"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "of_n_l_trick_or_treat_shoes"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ap_n_m_arm_specter"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ap_n_l_arm_specter"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ap_n_simple_hair_ornament"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ap_n_simple_watch"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ac_n_ability_ring"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ac_d_ability_ring"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ac_n_silver_neckless"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ac_d_silver_neckless"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_n_volume_0"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_n_volume_1"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_n_volume_2"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_n_volume_3"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_n_volume_4"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_1001"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_2001"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_2002"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_2003"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_2004"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_2005"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_2006"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_2007"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_3001"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_3002"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_3003"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_4001"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_5001"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_6001"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_6002"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_7001"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_7002"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_9001"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_9002"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_9003"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_9004"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_9005"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_9006"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_9007"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_9008"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_9009"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_9010"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_9011"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_9012"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_9013"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_9014"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_9015"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_9016"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_9017"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_9018"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_9019"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_9020"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_9021"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_9022"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_9023"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_9024"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_9025"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_9026"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_9027"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_9028"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_9029"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_9030"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_9031"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_9032"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_9033"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_9034"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_9035"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_9036"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_9037"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_9038"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_9039"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_9040"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_9041"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "it_n_potion"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "it_d_potion"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "it_n_hi-potion"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "it_d_hi-potion"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "it_n_mega-potion"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "it_d_mega-potion"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "it_n_ether"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "it_d_ether"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "it_n_hi-ether"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "it_d_hi-ether"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "it_n_mega-ether"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "it_d_mega-ether"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "it_n_elixir"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "it_d_elixir"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "it_n_incense1"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "it_d_incense1"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "it_n_incense2"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "it_d_incense2"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "it_n_rushing1"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "it_d_rushing1"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "it_n_rushing2"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "it_d_rushing2"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "it_n_lure1"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "it_d_lure1"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "it_n_lure2"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "it_d_lure2"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "it_n_tpboost1"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "it_d_tpboost1"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "it_n_tpboost2"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "it_d_tpboost2"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "it_n_raid_drop_boost1"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "it_d_raid_drop_boost1"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "it_n_raid_drop_boost2"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "it_d_raid_drop_boost2"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "it_n_individual_boost1"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "it_d_individual_boost1"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "it_n_individual_boost2"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "it_d_individual_boost2"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "it_n_wings"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "it_d_wings"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "it_n_premium_wings"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "it_d_premium_wings"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "it_n_raidticket"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "it_d_raidticket"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "it_n_premium_raidticket"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "it_d_premium_raidticket"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "it_n_piece_lv_enhance_material"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "it_d_piece_lv_enhance_material"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "it_n_key_blade_baterial"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "it_d_key_blade_baterial"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "it_n_passive_lv_enhance_material"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "it_d_passive_lv_enhance_material"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "it_n_rename"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "it_d_rename"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ha_n_boy_skinhead"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ha_n_boy_short"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ha_n_boy_middle"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ha_n_boy_long"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ha_n_girl_skinhead"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ha_n_girl_short"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-		{
-			"Source":
-			{
-				"Text": "ha_n_girl_middle"
-			},
-			"Translation":
-			{
-				"Text": "***"
-			}
-		},
-	]
-}
+				},
+				"Translation":
+				{
+					"Text": "ja"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "TextID"
+				},
+				"Translation":
+				{
+					"Text": ""
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "string"
+				},
+				"Translation":
+				{
+					"Text": ""
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "1"
+				},
+				"Translation":
+				{
+					"Text": ""
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "1"
+				},
+				"Translation":
+				{
+					"Text": ""
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "dummy"
+				},
+				"Translation":
+				{
+					"Text": ""
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "kb_n_none"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "kb_n_star"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "kb_n_rock"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "km_n_none"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "km_f_none"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "km_n_mithril"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "km_f_mithril"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "km_n_herbleaf"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "km_f_herbleaf"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "km_n_copper"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "km_f_copper"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "km_n_clearwater"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "km_f_clearwater"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "pi_n_sora1"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "pi_f_sora1"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "pi_n_sora3"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "pi_f_sora3"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "pi_n_gufi1"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "pi_f_gufi1"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "pi_n_gufi3"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "pi_f_gufi3"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "pi_n_dona1"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "pi_f_dona1"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "pi_n_dona3"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "pi_f_dona3"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "aa_n_none"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "aa_d_none"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "aa_n_fireattack"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "aa_d_fireattack"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "aa_n_longreflect"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "aa_d_longreflect"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "aa_n_blizzard"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "aa_d_blizzard"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "pa_n_none"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "pa_d_none"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "pa_n_hpup"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "pa_d_hpup"
+				},
+				"Translation":
+				{
+					"Text": "最大HPが %5.2f 上昇する。"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "pa_n_mpup"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "pa_d_mpup"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "pa_n_attackup"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "pa_d_attackup"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "pa_n_comboplus"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "pa_d_comboplus"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "tf_n_red"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "tf_n_black"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "tf_n_white"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "tf_n_gold"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "tf_n_blue"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "tr_n_sorcerer"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "tr_n_swordsman"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "tr_n_pierrot"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "tr_n_beginner"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "tr_n_master"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "of_n_m_trick_or_treat_hat"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "of_n_m_trick_or_treat_top"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "of_n_m_trick_or_treat_watch"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "of_n_m_trick_or_treat_gloves"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "of_n_m_trick_or_treat_bottom"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "of_n_m_trick_or_treat_shoes"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "of_n_l_trick_or_treat_hat"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "of_n_l_trick_or_treat_top"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "of_n_l_trick_or_treat_watch"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "of_n_l_trick_or_treat_gloves"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "of_n_l_trick_or_treat_bottom"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "of_n_l_trick_or_treat_shoes"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ap_n_m_arm_specter"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ap_n_l_arm_specter"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ap_n_simple_hair_ornament"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ap_n_simple_watch"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ac_n_ability_ring"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ac_d_ability_ring"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ac_n_silver_neckless"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ac_d_silver_neckless"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_n_volume_0"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_n_volume_1"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_n_volume_2"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_n_volume_3"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_n_volume_4"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_1001"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_2001"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_2002"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_2003"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_2004"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_2005"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_2006"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_2007"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_3001"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_3002"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_3003"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_4001"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_5001"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_6001"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_6002"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_7001"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_7002"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9001"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9002"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9003"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9004"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9005"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9006"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9007"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9008"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9009"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9010"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9011"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9012"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9013"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9014"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9015"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9016"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9017"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9018"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9019"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9020"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9021"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9022"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9023"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9024"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9025"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9026"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9027"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9028"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9029"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9030"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9031"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9032"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9033"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9034"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9035"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9036"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9037"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9038"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9039"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9040"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9041"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "it_n_potion"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "it_d_potion"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "it_n_hi-potion"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "it_d_hi-potion"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "it_n_mega-potion"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "it_d_mega-potion"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "it_n_ether"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "it_d_ether"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "it_n_hi-ether"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "it_d_hi-ether"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "it_n_mega-ether"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "it_d_mega-ether"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "it_n_elixir"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "it_d_elixir"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "it_n_incense1"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "it_d_incense1"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "it_n_incense2"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "it_d_incense2"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "it_n_rushing1"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "it_d_rushing1"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "it_n_rushing2"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "it_d_rushing2"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "it_n_lure1"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "it_d_lure1"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "it_n_lure2"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "it_d_lure2"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "it_n_tpboost1"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "it_d_tpboost1"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "it_n_tpboost2"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "it_d_tpboost2"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "it_n_raid_drop_boost1"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "it_d_raid_drop_boost1"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "it_n_raid_drop_boost2"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "it_d_raid_drop_boost2"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "it_n_individual_boost1"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "it_d_individual_boost1"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "it_n_individual_boost2"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "it_d_individual_boost2"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "it_n_wings"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "it_d_wings"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "it_n_premium_wings"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "it_d_premium_wings"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "it_n_raidticket"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "it_d_raidticket"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "it_n_premium_raidticket"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "it_d_premium_raidticket"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "it_n_piece_lv_enhance_material"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "it_d_piece_lv_enhance_material"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "it_n_key_blade_baterial"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "it_d_key_blade_baterial"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "it_n_passive_lv_enhance_material"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "it_d_passive_lv_enhance_material"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "it_n_rename"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "it_d_rename"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ha_n_boy_skinhead"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ha_n_boy_short"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ha_n_boy_middle"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ha_n_boy_long"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ha_n_girl_skinhead"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ha_n_girl_short"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+			{
+				"Source":
+				{
+					"Text": "ha_n_girl_middle"
+				},
+				"Translation":
+				{
+					"Text": "***"
+				}
+			},
+		]
+	}

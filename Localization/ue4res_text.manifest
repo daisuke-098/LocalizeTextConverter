@@ -3,2442 +3,4881 @@
 	"Namespace": "",
 	"Children": [
 		{
-			"Source":
-			{
-				"Text": "テキストID
+				"Source":
+				{
+					"Text": "テキストID
 （カテゴリID＋識別名称）"
-			},
-			"Keys": [
-				{
-					"Key": "テキストID
+				},
+				"Keys": [
+					{
+						"Key": "テキストID
 （カテゴリID＋識別名称）",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "TextID"
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
-				{
-					"Key": "TextID",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "string"
-			},
-			"Keys": [
-				{
-					"Key": "string",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "1"
-			},
-			"Keys": [
-				{
-					"Key": "1",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "1"
-			},
-			"Keys": [
-				{
-					"Key": "1",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "dummy"
-			},
-			"Keys": [
-				{
-					"Key": "dummy",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "kb_n_none"
-			},
-			"Keys": [
-				{
-					"Key": "kb_n_none",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "kb_n_star"
-			},
-			"Keys": [
-				{
-					"Key": "kb_n_star",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "kb_n_rock"
-			},
-			"Keys": [
-				{
-					"Key": "kb_n_rock",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
 			{
-				"Text": "km_n_none"
-			},
-			"Keys": [
+				"Source":
 				{
-					"Key": "km_n_none",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "km_f_none"
+					"Text": "TextID"
+				},
+				"Keys": [
+					{
+						"Key": "TextID",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
-				{
-					"Key": "km_f_none",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
 			{
-				"Text": "km_n_mithril"
-			},
-			"Keys": [
+				"Source":
 				{
-					"Key": "km_n_mithril",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "km_f_mithril"
+					"Text": "string"
+				},
+				"Keys": [
+					{
+						"Key": "string",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
-				{
-					"Key": "km_f_mithril",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
 			{
-				"Text": "km_n_herbleaf"
-			},
-			"Keys": [
+				"Source":
 				{
-					"Key": "km_n_herbleaf",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "km_f_herbleaf"
+					"Text": "1"
+				},
+				"Keys": [
+					{
+						"Key": "1",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
-				{
-					"Key": "km_f_herbleaf",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
 			{
-				"Text": "km_n_copper"
-			},
-			"Keys": [
+				"Source":
 				{
-					"Key": "km_n_copper",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "km_f_copper"
+					"Text": "1"
+				},
+				"Keys": [
+					{
+						"Key": "1",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
-				{
-					"Key": "km_f_copper",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
 			{
-				"Text": "km_n_clearwater"
-			},
-			"Keys": [
+				"Source":
 				{
-					"Key": "km_n_clearwater",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "km_f_clearwater"
+					"Text": "dummy"
+				},
+				"Keys": [
+					{
+						"Key": "dummy",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
-				{
-					"Key": "km_f_clearwater",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
 			{
-				"Text": "pi_n_sora1"
-			},
-			"Keys": [
+				"Source":
 				{
-					"Key": "pi_n_sora1",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "pi_f_sora1"
+					"Text": "kb_n_none"
+				},
+				"Keys": [
+					{
+						"Key": "kb_n_none",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
-				{
-					"Key": "pi_f_sora1",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
 			{
-				"Text": "pi_n_sora3"
-			},
-			"Keys": [
+				"Source":
 				{
-					"Key": "pi_n_sora3",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "pi_f_sora3"
+					"Text": "kb_n_star"
+				},
+				"Keys": [
+					{
+						"Key": "kb_n_star",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
-				{
-					"Key": "pi_f_sora3",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
 			{
-				"Text": "pi_n_gufi1"
-			},
-			"Keys": [
+				"Source":
 				{
-					"Key": "pi_n_gufi1",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "pi_f_gufi1"
+					"Text": "kb_n_rock"
+				},
+				"Keys": [
+					{
+						"Key": "kb_n_rock",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
-				{
-					"Key": "pi_f_gufi1",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
 			{
-				"Text": "pi_n_gufi3"
-			},
-			"Keys": [
+				"Source":
 				{
-					"Key": "pi_n_gufi3",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "pi_f_gufi3"
+					"Text": "km_n_none"
+				},
+				"Keys": [
+					{
+						"Key": "km_n_none",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
-				{
-					"Key": "pi_f_gufi3",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
 			{
-				"Text": "pi_n_dona1"
-			},
-			"Keys": [
+				"Source":
 				{
-					"Key": "pi_n_dona1",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "pi_f_dona1"
+					"Text": "km_f_none"
+				},
+				"Keys": [
+					{
+						"Key": "km_f_none",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
-				{
-					"Key": "pi_f_dona1",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
 			{
-				"Text": "pi_n_dona3"
-			},
-			"Keys": [
+				"Source":
 				{
-					"Key": "pi_n_dona3",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "pi_f_dona3"
+					"Text": "km_n_mithril"
+				},
+				"Keys": [
+					{
+						"Key": "km_n_mithril",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
-				{
-					"Key": "pi_f_dona3",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
 			{
-				"Text": "aa_n_none"
-			},
-			"Keys": [
+				"Source":
 				{
-					"Key": "aa_n_none",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "aa_d_none"
+					"Text": "km_f_mithril"
+				},
+				"Keys": [
+					{
+						"Key": "km_f_mithril",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
-				{
-					"Key": "aa_d_none",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
 			{
-				"Text": "aa_n_fireattack"
-			},
-			"Keys": [
+				"Source":
 				{
-					"Key": "aa_n_fireattack",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "aa_d_fireattack"
+					"Text": "km_n_herbleaf"
+				},
+				"Keys": [
+					{
+						"Key": "km_n_herbleaf",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
-				{
-					"Key": "aa_d_fireattack",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
 			{
-				"Text": "aa_n_longreflect"
-			},
-			"Keys": [
+				"Source":
 				{
-					"Key": "aa_n_longreflect",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "aa_d_longreflect"
+					"Text": "km_f_herbleaf"
+				},
+				"Keys": [
+					{
+						"Key": "km_f_herbleaf",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
-				{
-					"Key": "aa_d_longreflect",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
 			{
-				"Text": "aa_n_blizzard"
-			},
-			"Keys": [
+				"Source":
 				{
-					"Key": "aa_n_blizzard",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "aa_d_blizzard"
+					"Text": "km_n_copper"
+				},
+				"Keys": [
+					{
+						"Key": "km_n_copper",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
-				{
-					"Key": "aa_d_blizzard",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
 			{
-				"Text": "pa_n_none"
-			},
-			"Keys": [
+				"Source":
 				{
-					"Key": "pa_n_none",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "pa_d_none"
+					"Text": "km_f_copper"
+				},
+				"Keys": [
+					{
+						"Key": "km_f_copper",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
-				{
-					"Key": "pa_d_none",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
 			{
-				"Text": "pa_n_hpup"
-			},
-			"Keys": [
+				"Source":
 				{
-					"Key": "pa_n_hpup",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "pa_d_hpup"
+					"Text": "km_n_clearwater"
+				},
+				"Keys": [
+					{
+						"Key": "km_n_clearwater",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
-				{
-					"Key": "pa_d_hpup",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
 			{
-				"Text": "pa_n_mpup"
-			},
-			"Keys": [
+				"Source":
 				{
-					"Key": "pa_n_mpup",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "pa_d_mpup"
+					"Text": "km_f_clearwater"
+				},
+				"Keys": [
+					{
+						"Key": "km_f_clearwater",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
-				{
-					"Key": "pa_d_mpup",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
 			{
-				"Text": "pa_n_attackup"
-			},
-			"Keys": [
+				"Source":
 				{
-					"Key": "pa_n_attackup",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "pa_d_attackup"
+					"Text": "pi_n_sora1"
+				},
+				"Keys": [
+					{
+						"Key": "pi_n_sora1",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
-				{
-					"Key": "pa_d_attackup",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
 			{
-				"Text": "pa_n_comboplus"
-			},
-			"Keys": [
+				"Source":
 				{
-					"Key": "pa_n_comboplus",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "pa_d_comboplus"
+					"Text": "pi_f_sora1"
+				},
+				"Keys": [
+					{
+						"Key": "pi_f_sora1",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
-				{
-					"Key": "pa_d_comboplus",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
 			{
-				"Text": "tf_n_red"
-			},
-			"Keys": [
+				"Source":
 				{
-					"Key": "tf_n_red",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "tf_n_black"
+					"Text": "pi_n_sora3"
+				},
+				"Keys": [
+					{
+						"Key": "pi_n_sora3",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
-				{
-					"Key": "tf_n_black",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
 			{
-				"Text": "tf_n_white"
-			},
-			"Keys": [
+				"Source":
 				{
-					"Key": "tf_n_white",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "tf_n_gold"
+					"Text": "pi_f_sora3"
+				},
+				"Keys": [
+					{
+						"Key": "pi_f_sora3",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
-				{
-					"Key": "tf_n_gold",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
 			{
-				"Text": "tf_n_blue"
-			},
-			"Keys": [
+				"Source":
 				{
-					"Key": "tf_n_blue",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "tr_n_sorcerer"
+					"Text": "pi_n_gufi1"
+				},
+				"Keys": [
+					{
+						"Key": "pi_n_gufi1",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
-				{
-					"Key": "tr_n_sorcerer",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
 			{
-				"Text": "tr_n_swordsman"
-			},
-			"Keys": [
+				"Source":
 				{
-					"Key": "tr_n_swordsman",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "tr_n_pierrot"
+					"Text": "pi_f_gufi1"
+				},
+				"Keys": [
+					{
+						"Key": "pi_f_gufi1",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
-				{
-					"Key": "tr_n_pierrot",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
 			{
-				"Text": "tr_n_beginner"
-			},
-			"Keys": [
+				"Source":
 				{
-					"Key": "tr_n_beginner",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "tr_n_master"
+					"Text": "pi_n_gufi3"
+				},
+				"Keys": [
+					{
+						"Key": "pi_n_gufi3",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
-				{
-					"Key": "tr_n_master",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
 			{
-				"Text": "of_n_m_trick_or_treat_hat"
-			},
-			"Keys": [
+				"Source":
 				{
-					"Key": "of_n_m_trick_or_treat_hat",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "of_n_m_trick_or_treat_top"
+					"Text": "pi_f_gufi3"
+				},
+				"Keys": [
+					{
+						"Key": "pi_f_gufi3",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
-				{
-					"Key": "of_n_m_trick_or_treat_top",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
 			{
-				"Text": "of_n_m_trick_or_treat_watch"
-			},
-			"Keys": [
+				"Source":
 				{
-					"Key": "of_n_m_trick_or_treat_watch",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "of_n_m_trick_or_treat_gloves"
+					"Text": "pi_n_dona1"
+				},
+				"Keys": [
+					{
+						"Key": "pi_n_dona1",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
-				{
-					"Key": "of_n_m_trick_or_treat_gloves",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
 			{
-				"Text": "of_n_m_trick_or_treat_bottom"
-			},
-			"Keys": [
+				"Source":
 				{
-					"Key": "of_n_m_trick_or_treat_bottom",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "of_n_m_trick_or_treat_shoes"
+					"Text": "pi_f_dona1"
+				},
+				"Keys": [
+					{
+						"Key": "pi_f_dona1",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
-				{
-					"Key": "of_n_m_trick_or_treat_shoes",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
 			{
-				"Text": "of_n_l_trick_or_treat_hat"
-			},
-			"Keys": [
+				"Source":
 				{
-					"Key": "of_n_l_trick_or_treat_hat",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "of_n_l_trick_or_treat_top"
+					"Text": "pi_n_dona3"
+				},
+				"Keys": [
+					{
+						"Key": "pi_n_dona3",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
-				{
-					"Key": "of_n_l_trick_or_treat_top",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
 			{
-				"Text": "of_n_l_trick_or_treat_watch"
-			},
-			"Keys": [
+				"Source":
 				{
-					"Key": "of_n_l_trick_or_treat_watch",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "of_n_l_trick_or_treat_gloves"
+					"Text": "pi_f_dona3"
+				},
+				"Keys": [
+					{
+						"Key": "pi_f_dona3",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
-				{
-					"Key": "of_n_l_trick_or_treat_gloves",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
 			{
-				"Text": "of_n_l_trick_or_treat_bottom"
-			},
-			"Keys": [
+				"Source":
 				{
-					"Key": "of_n_l_trick_or_treat_bottom",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "of_n_l_trick_or_treat_shoes"
+					"Text": "aa_n_none"
+				},
+				"Keys": [
+					{
+						"Key": "aa_n_none",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
-				{
-					"Key": "of_n_l_trick_or_treat_shoes",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
 			{
-				"Text": "ap_n_m_arm_specter"
-			},
-			"Keys": [
+				"Source":
 				{
-					"Key": "ap_n_m_arm_specter",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "ap_n_l_arm_specter"
+					"Text": "aa_d_none"
+				},
+				"Keys": [
+					{
+						"Key": "aa_d_none",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
-				{
-					"Key": "ap_n_l_arm_specter",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
 			{
-				"Text": "ap_n_simple_hair_ornament"
-			},
-			"Keys": [
+				"Source":
 				{
-					"Key": "ap_n_simple_hair_ornament",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "ap_n_simple_watch"
+					"Text": "aa_n_fireattack"
+				},
+				"Keys": [
+					{
+						"Key": "aa_n_fireattack",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
-				{
-					"Key": "ap_n_simple_watch",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
 			{
-				"Text": "ac_n_ability_ring"
-			},
-			"Keys": [
+				"Source":
 				{
-					"Key": "ac_n_ability_ring",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "ac_d_ability_ring"
+					"Text": "aa_d_fireattack"
+				},
+				"Keys": [
+					{
+						"Key": "aa_d_fireattack",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
-				{
-					"Key": "ac_d_ability_ring",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
 			{
-				"Text": "ac_n_silver_neckless"
-			},
-			"Keys": [
+				"Source":
 				{
-					"Key": "ac_n_silver_neckless",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "ac_d_silver_neckless"
+					"Text": "aa_n_longreflect"
+				},
+				"Keys": [
+					{
+						"Key": "aa_n_longreflect",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
-				{
-					"Key": "ac_d_silver_neckless",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
 			{
-				"Text": "ar_n_volume_0"
-			},
-			"Keys": [
+				"Source":
 				{
-					"Key": "ar_n_volume_0",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_n_volume_1"
+					"Text": "aa_d_longreflect"
+				},
+				"Keys": [
+					{
+						"Key": "aa_d_longreflect",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
-				{
-					"Key": "ar_n_volume_1",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
 			{
-				"Text": "ar_n_volume_2"
-			},
-			"Keys": [
+				"Source":
 				{
-					"Key": "ar_n_volume_2",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_n_volume_3"
+					"Text": "aa_n_blizzard"
+				},
+				"Keys": [
+					{
+						"Key": "aa_n_blizzard",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
-				{
-					"Key": "ar_n_volume_3",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
 			{
-				"Text": "ar_n_volume_4"
-			},
-			"Keys": [
+				"Source":
 				{
-					"Key": "ar_n_volume_4",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_1001"
+					"Text": "aa_d_blizzard"
+				},
+				"Keys": [
+					{
+						"Key": "aa_d_blizzard",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
-				{
-					"Key": "ar_c_1001",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
 			{
-				"Text": "ar_c_2001"
-			},
-			"Keys": [
+				"Source":
 				{
-					"Key": "ar_c_2001",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_2002"
+					"Text": "pa_n_none"
+				},
+				"Keys": [
+					{
+						"Key": "pa_n_none",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
-				{
-					"Key": "ar_c_2002",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
 			{
-				"Text": "ar_c_2003"
-			},
-			"Keys": [
+				"Source":
 				{
-					"Key": "ar_c_2003",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_2004"
+					"Text": "pa_d_none"
+				},
+				"Keys": [
+					{
+						"Key": "pa_d_none",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
-				{
-					"Key": "ar_c_2004",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
 			{
-				"Text": "ar_c_2005"
-			},
-			"Keys": [
+				"Source":
 				{
-					"Key": "ar_c_2005",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_2006"
+					"Text": "pa_n_hpup"
+				},
+				"Keys": [
+					{
+						"Key": "pa_n_hpup",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
-				{
-					"Key": "ar_c_2006",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
 			{
-				"Text": "ar_c_2007"
-			},
-			"Keys": [
+				"Source":
 				{
-					"Key": "ar_c_2007",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_3001"
+					"Text": "pa_d_hpup"
+				},
+				"Keys": [
+					{
+						"Key": "pa_d_hpup",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
-				{
-					"Key": "ar_c_3001",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
 			{
-				"Text": "ar_c_3002"
-			},
-			"Keys": [
+				"Source":
 				{
-					"Key": "ar_c_3002",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_3003"
+					"Text": "pa_n_mpup"
+				},
+				"Keys": [
+					{
+						"Key": "pa_n_mpup",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
-				{
-					"Key": "ar_c_3003",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
 			{
-				"Text": "ar_c_4001"
-			},
-			"Keys": [
+				"Source":
 				{
-					"Key": "ar_c_4001",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_5001"
+					"Text": "pa_d_mpup"
+				},
+				"Keys": [
+					{
+						"Key": "pa_d_mpup",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
-				{
-					"Key": "ar_c_5001",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
 			{
-				"Text": "ar_c_6001"
-			},
-			"Keys": [
+				"Source":
 				{
-					"Key": "ar_c_6001",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_6002"
+					"Text": "pa_n_attackup"
+				},
+				"Keys": [
+					{
+						"Key": "pa_n_attackup",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
-				{
-					"Key": "ar_c_6002",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
 			{
-				"Text": "ar_c_7001"
-			},
-			"Keys": [
+				"Source":
 				{
-					"Key": "ar_c_7001",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_7002"
+					"Text": "pa_d_attackup"
+				},
+				"Keys": [
+					{
+						"Key": "pa_d_attackup",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
-				{
-					"Key": "ar_c_7002",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
 			{
-				"Text": "ar_c_9001"
-			},
-			"Keys": [
+				"Source":
 				{
-					"Key": "ar_c_9001",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_9002"
+					"Text": "pa_n_comboplus"
+				},
+				"Keys": [
+					{
+						"Key": "pa_n_comboplus",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
-				{
-					"Key": "ar_c_9002",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
 			{
-				"Text": "ar_c_9003"
-			},
-			"Keys": [
+				"Source":
 				{
-					"Key": "ar_c_9003",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_9004"
+					"Text": "pa_d_comboplus"
+				},
+				"Keys": [
+					{
+						"Key": "pa_d_comboplus",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
-				{
-					"Key": "ar_c_9004",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
 			{
-				"Text": "ar_c_9005"
-			},
-			"Keys": [
+				"Source":
 				{
-					"Key": "ar_c_9005",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_9006"
+					"Text": "tf_n_red"
+				},
+				"Keys": [
+					{
+						"Key": "tf_n_red",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
-				{
-					"Key": "ar_c_9006",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
 			{
-				"Text": "ar_c_9007"
-			},
-			"Keys": [
+				"Source":
 				{
-					"Key": "ar_c_9007",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_9008"
+					"Text": "tf_n_black"
+				},
+				"Keys": [
+					{
+						"Key": "tf_n_black",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
-				{
-					"Key": "ar_c_9008",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
 			{
-				"Text": "ar_c_9009"
-			},
-			"Keys": [
+				"Source":
 				{
-					"Key": "ar_c_9009",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_9010"
+					"Text": "tf_n_white"
+				},
+				"Keys": [
+					{
+						"Key": "tf_n_white",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
-				{
-					"Key": "ar_c_9010",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
 			{
-				"Text": "ar_c_9011"
-			},
-			"Keys": [
+				"Source":
 				{
-					"Key": "ar_c_9011",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_9012"
+					"Text": "tf_n_gold"
+				},
+				"Keys": [
+					{
+						"Key": "tf_n_gold",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
-				{
-					"Key": "ar_c_9012",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
 			{
-				"Text": "ar_c_9013"
-			},
-			"Keys": [
+				"Source":
 				{
-					"Key": "ar_c_9013",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_9014"
+					"Text": "tf_n_blue"
+				},
+				"Keys": [
+					{
+						"Key": "tf_n_blue",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
-				{
-					"Key": "ar_c_9014",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
 			{
-				"Text": "ar_c_9015"
-			},
-			"Keys": [
+				"Source":
 				{
-					"Key": "ar_c_9015",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_9016"
+					"Text": "tr_n_sorcerer"
+				},
+				"Keys": [
+					{
+						"Key": "tr_n_sorcerer",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
-				{
-					"Key": "ar_c_9016",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
 			{
-				"Text": "ar_c_9017"
-			},
-			"Keys": [
+				"Source":
 				{
-					"Key": "ar_c_9017",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_9018"
+					"Text": "tr_n_swordsman"
+				},
+				"Keys": [
+					{
+						"Key": "tr_n_swordsman",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
-				{
-					"Key": "ar_c_9018",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
 			{
-				"Text": "ar_c_9019"
-			},
-			"Keys": [
+				"Source":
 				{
-					"Key": "ar_c_9019",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_9020"
+					"Text": "tr_n_pierrot"
+				},
+				"Keys": [
+					{
+						"Key": "tr_n_pierrot",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
-				{
-					"Key": "ar_c_9020",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
 			{
-				"Text": "ar_c_9021"
-			},
-			"Keys": [
+				"Source":
 				{
-					"Key": "ar_c_9021",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_9022"
+					"Text": "tr_n_beginner"
+				},
+				"Keys": [
+					{
+						"Key": "tr_n_beginner",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
-				{
-					"Key": "ar_c_9022",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
 			{
-				"Text": "ar_c_9023"
-			},
-			"Keys": [
+				"Source":
 				{
-					"Key": "ar_c_9023",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_9024"
+					"Text": "tr_n_master"
+				},
+				"Keys": [
+					{
+						"Key": "tr_n_master",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
-				{
-					"Key": "ar_c_9024",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
 			{
-				"Text": "ar_c_9025"
-			},
-			"Keys": [
+				"Source":
 				{
-					"Key": "ar_c_9025",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "ar_c_9026"
+					"Text": "of_n_m_trick_or_treat_hat"
+				},
+				"Keys": [
+					{
+						"Key": "of_n_m_trick_or_treat_hat",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
-				{
-					"Key": "ar_c_9026",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
 			{
-				"Text": "ar_c_9027"
-			},
-			"Keys": [
+				"Source":
 				{
-					"Key": "ar_c_9027",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "of_n_m_trick_or_treat_top"
+				},
+				"Keys": [
+					{
+						"Key": "of_n_m_trick_or_treat_top",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "ar_c_9028"
+				"Source":
+				{
+					"Text": "of_n_m_trick_or_treat_watch"
+				},
+				"Keys": [
+					{
+						"Key": "of_n_m_trick_or_treat_watch",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "ar_c_9028",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "of_n_m_trick_or_treat_gloves"
+				},
+				"Keys": [
+					{
+						"Key": "of_n_m_trick_or_treat_gloves",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "ar_c_9029"
+				"Source":
+				{
+					"Text": "of_n_m_trick_or_treat_bottom"
+				},
+				"Keys": [
+					{
+						"Key": "of_n_m_trick_or_treat_bottom",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "ar_c_9029",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "of_n_m_trick_or_treat_shoes"
+				},
+				"Keys": [
+					{
+						"Key": "of_n_m_trick_or_treat_shoes",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "ar_c_9030"
+				"Source":
+				{
+					"Text": "of_n_l_trick_or_treat_hat"
+				},
+				"Keys": [
+					{
+						"Key": "of_n_l_trick_or_treat_hat",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "ar_c_9030",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "of_n_l_trick_or_treat_top"
+				},
+				"Keys": [
+					{
+						"Key": "of_n_l_trick_or_treat_top",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "ar_c_9031"
+				"Source":
+				{
+					"Text": "of_n_l_trick_or_treat_watch"
+				},
+				"Keys": [
+					{
+						"Key": "of_n_l_trick_or_treat_watch",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "ar_c_9031",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "of_n_l_trick_or_treat_gloves"
+				},
+				"Keys": [
+					{
+						"Key": "of_n_l_trick_or_treat_gloves",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "ar_c_9032"
+				"Source":
+				{
+					"Text": "of_n_l_trick_or_treat_bottom"
+				},
+				"Keys": [
+					{
+						"Key": "of_n_l_trick_or_treat_bottom",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "ar_c_9032",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "of_n_l_trick_or_treat_shoes"
+				},
+				"Keys": [
+					{
+						"Key": "of_n_l_trick_or_treat_shoes",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "ar_c_9033"
+				"Source":
+				{
+					"Text": "ap_n_m_arm_specter"
+				},
+				"Keys": [
+					{
+						"Key": "ap_n_m_arm_specter",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "ar_c_9033",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "ap_n_l_arm_specter"
+				},
+				"Keys": [
+					{
+						"Key": "ap_n_l_arm_specter",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "ar_c_9034"
+				"Source":
+				{
+					"Text": "ap_n_simple_hair_ornament"
+				},
+				"Keys": [
+					{
+						"Key": "ap_n_simple_hair_ornament",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "ar_c_9034",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "ap_n_simple_watch"
+				},
+				"Keys": [
+					{
+						"Key": "ap_n_simple_watch",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "ar_c_9035"
+				"Source":
+				{
+					"Text": "ac_n_ability_ring"
+				},
+				"Keys": [
+					{
+						"Key": "ac_n_ability_ring",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "ar_c_9035",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "ac_d_ability_ring"
+				},
+				"Keys": [
+					{
+						"Key": "ac_d_ability_ring",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "ar_c_9036"
+				"Source":
+				{
+					"Text": "ac_n_silver_neckless"
+				},
+				"Keys": [
+					{
+						"Key": "ac_n_silver_neckless",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "ar_c_9036",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "ac_d_silver_neckless"
+				},
+				"Keys": [
+					{
+						"Key": "ac_d_silver_neckless",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "ar_c_9037"
+				"Source":
+				{
+					"Text": "ar_n_volume_0"
+				},
+				"Keys": [
+					{
+						"Key": "ar_n_volume_0",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "ar_c_9037",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "ar_n_volume_1"
+				},
+				"Keys": [
+					{
+						"Key": "ar_n_volume_1",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "ar_c_9038"
+				"Source":
+				{
+					"Text": "ar_n_volume_2"
+				},
+				"Keys": [
+					{
+						"Key": "ar_n_volume_2",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "ar_c_9038",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "ar_n_volume_3"
+				},
+				"Keys": [
+					{
+						"Key": "ar_n_volume_3",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "ar_c_9039"
+				"Source":
+				{
+					"Text": "ar_n_volume_4"
+				},
+				"Keys": [
+					{
+						"Key": "ar_n_volume_4",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "ar_c_9039",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "ar_c_1001"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_1001",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "ar_c_9040"
+				"Source":
+				{
+					"Text": "ar_c_2001"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_2001",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "ar_c_9040",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "ar_c_2002"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_2002",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "ar_c_9041"
+				"Source":
+				{
+					"Text": "ar_c_2003"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_2003",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "ar_c_9041",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "ar_c_2004"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_2004",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "it_n_potion"
+				"Source":
+				{
+					"Text": "ar_c_2005"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_2005",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "it_n_potion",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "ar_c_2006"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_2006",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "it_d_potion"
+				"Source":
+				{
+					"Text": "ar_c_2007"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_2007",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "it_d_potion",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "ar_c_3001"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_3001",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "it_n_hi-potion"
+				"Source":
+				{
+					"Text": "ar_c_3002"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_3002",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "it_n_hi-potion",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "ar_c_3003"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_3003",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "it_d_hi-potion"
+				"Source":
+				{
+					"Text": "ar_c_4001"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_4001",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "it_d_hi-potion",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "ar_c_5001"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_5001",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "it_n_mega-potion"
+				"Source":
+				{
+					"Text": "ar_c_6001"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_6001",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "it_n_mega-potion",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "ar_c_6002"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_6002",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "it_d_mega-potion"
+				"Source":
+				{
+					"Text": "ar_c_7001"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_7001",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "it_d_mega-potion",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "ar_c_7002"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_7002",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "it_n_ether"
+				"Source":
+				{
+					"Text": "ar_c_9001"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9001",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "it_n_ether",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "ar_c_9002"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9002",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "it_d_ether"
+				"Source":
+				{
+					"Text": "ar_c_9003"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9003",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "it_d_ether",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "ar_c_9004"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9004",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "it_n_hi-ether"
+				"Source":
+				{
+					"Text": "ar_c_9005"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9005",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "it_n_hi-ether",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "ar_c_9006"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9006",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "it_d_hi-ether"
+				"Source":
+				{
+					"Text": "ar_c_9007"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9007",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "it_d_hi-ether",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "ar_c_9008"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9008",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "it_n_mega-ether"
+				"Source":
+				{
+					"Text": "ar_c_9009"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9009",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "it_n_mega-ether",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "ar_c_9010"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9010",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "it_d_mega-ether"
+				"Source":
+				{
+					"Text": "ar_c_9011"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9011",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "it_d_mega-ether",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "ar_c_9012"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9012",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "it_n_elixir"
+				"Source":
+				{
+					"Text": "ar_c_9013"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9013",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "it_n_elixir",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "ar_c_9014"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9014",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "it_d_elixir"
+				"Source":
+				{
+					"Text": "ar_c_9015"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9015",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "it_d_elixir",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "ar_c_9016"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9016",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "it_n_incense1"
+				"Source":
+				{
+					"Text": "ar_c_9017"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9017",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "it_n_incense1",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "ar_c_9018"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9018",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "it_d_incense1"
+				"Source":
+				{
+					"Text": "ar_c_9019"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9019",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "it_d_incense1",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "ar_c_9020"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9020",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "it_n_incense2"
+				"Source":
+				{
+					"Text": "ar_c_9021"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9021",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "it_n_incense2",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "ar_c_9022"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9022",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "it_d_incense2"
+				"Source":
+				{
+					"Text": "ar_c_9023"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9023",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "it_d_incense2",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "ar_c_9024"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9024",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "it_n_rushing1"
+				"Source":
+				{
+					"Text": "ar_c_9025"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9025",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "it_n_rushing1",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "ar_c_9026"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9026",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "it_d_rushing1"
+				"Source":
+				{
+					"Text": "ar_c_9027"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9027",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "it_d_rushing1",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "ar_c_9028"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9028",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "it_n_rushing2"
+				"Source":
+				{
+					"Text": "ar_c_9029"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9029",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "it_n_rushing2",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "ar_c_9030"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9030",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "it_d_rushing2"
+				"Source":
+				{
+					"Text": "ar_c_9031"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9031",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "it_d_rushing2",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "ar_c_9032"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9032",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "it_n_lure1"
+				"Source":
+				{
+					"Text": "ar_c_9033"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9033",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "it_n_lure1",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "ar_c_9034"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9034",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "it_d_lure1"
+				"Source":
+				{
+					"Text": "ar_c_9035"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9035",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "it_d_lure1",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "ar_c_9036"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9036",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "it_n_lure2"
+				"Source":
+				{
+					"Text": "ar_c_9037"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9037",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "it_n_lure2",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "ar_c_9038"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9038",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "it_d_lure2"
+				"Source":
+				{
+					"Text": "ar_c_9039"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9039",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "it_d_lure2",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "ar_c_9040"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9040",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "it_n_tpboost1"
+				"Source":
+				{
+					"Text": "ar_c_9041"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9041",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "it_n_tpboost1",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "it_n_potion"
+				},
+				"Keys": [
+					{
+						"Key": "it_n_potion",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "it_d_tpboost1"
+				"Source":
+				{
+					"Text": "it_d_potion"
+				},
+				"Keys": [
+					{
+						"Key": "it_d_potion",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "it_d_tpboost1",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "it_n_hi-potion"
+				},
+				"Keys": [
+					{
+						"Key": "it_n_hi-potion",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "it_n_tpboost2"
+				"Source":
+				{
+					"Text": "it_d_hi-potion"
+				},
+				"Keys": [
+					{
+						"Key": "it_d_hi-potion",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "it_n_tpboost2",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "it_n_mega-potion"
+				},
+				"Keys": [
+					{
+						"Key": "it_n_mega-potion",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "it_d_tpboost2"
+				"Source":
+				{
+					"Text": "it_d_mega-potion"
+				},
+				"Keys": [
+					{
+						"Key": "it_d_mega-potion",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "it_d_tpboost2",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "it_n_ether"
+				},
+				"Keys": [
+					{
+						"Key": "it_n_ether",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "it_n_raid_drop_boost1"
+				"Source":
+				{
+					"Text": "it_d_ether"
+				},
+				"Keys": [
+					{
+						"Key": "it_d_ether",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "it_n_raid_drop_boost1",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "it_n_hi-ether"
+				},
+				"Keys": [
+					{
+						"Key": "it_n_hi-ether",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "it_d_raid_drop_boost1"
+				"Source":
+				{
+					"Text": "it_d_hi-ether"
+				},
+				"Keys": [
+					{
+						"Key": "it_d_hi-ether",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "it_d_raid_drop_boost1",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "it_n_mega-ether"
+				},
+				"Keys": [
+					{
+						"Key": "it_n_mega-ether",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "it_n_raid_drop_boost2"
+				"Source":
+				{
+					"Text": "it_d_mega-ether"
+				},
+				"Keys": [
+					{
+						"Key": "it_d_mega-ether",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "it_n_raid_drop_boost2",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "it_n_elixir"
+				},
+				"Keys": [
+					{
+						"Key": "it_n_elixir",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "it_d_raid_drop_boost2"
+				"Source":
+				{
+					"Text": "it_d_elixir"
+				},
+				"Keys": [
+					{
+						"Key": "it_d_elixir",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "it_d_raid_drop_boost2",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "it_n_incense1"
+				},
+				"Keys": [
+					{
+						"Key": "it_n_incense1",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "it_n_individual_boost1"
+				"Source":
+				{
+					"Text": "it_d_incense1"
+				},
+				"Keys": [
+					{
+						"Key": "it_d_incense1",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "it_n_individual_boost1",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "it_n_incense2"
+				},
+				"Keys": [
+					{
+						"Key": "it_n_incense2",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "it_d_individual_boost1"
+				"Source":
+				{
+					"Text": "it_d_incense2"
+				},
+				"Keys": [
+					{
+						"Key": "it_d_incense2",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "it_d_individual_boost1",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "it_n_rushing1"
+				},
+				"Keys": [
+					{
+						"Key": "it_n_rushing1",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "it_n_individual_boost2"
+				"Source":
+				{
+					"Text": "it_d_rushing1"
+				},
+				"Keys": [
+					{
+						"Key": "it_d_rushing1",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "it_n_individual_boost2",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "it_n_rushing2"
+				},
+				"Keys": [
+					{
+						"Key": "it_n_rushing2",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "it_d_individual_boost2"
+				"Source":
+				{
+					"Text": "it_d_rushing2"
+				},
+				"Keys": [
+					{
+						"Key": "it_d_rushing2",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "it_d_individual_boost2",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "it_n_lure1"
+				},
+				"Keys": [
+					{
+						"Key": "it_n_lure1",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "it_n_wings"
+				"Source":
+				{
+					"Text": "it_d_lure1"
+				},
+				"Keys": [
+					{
+						"Key": "it_d_lure1",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "it_n_wings",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "it_n_lure2"
+				},
+				"Keys": [
+					{
+						"Key": "it_n_lure2",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "it_d_wings"
+				"Source":
+				{
+					"Text": "it_d_lure2"
+				},
+				"Keys": [
+					{
+						"Key": "it_d_lure2",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "it_d_wings",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "it_n_tpboost1"
+				},
+				"Keys": [
+					{
+						"Key": "it_n_tpboost1",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "it_n_premium_wings"
+				"Source":
+				{
+					"Text": "it_d_tpboost1"
+				},
+				"Keys": [
+					{
+						"Key": "it_d_tpboost1",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "it_n_premium_wings",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "it_n_tpboost2"
+				},
+				"Keys": [
+					{
+						"Key": "it_n_tpboost2",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "it_d_premium_wings"
+				"Source":
+				{
+					"Text": "it_d_tpboost2"
+				},
+				"Keys": [
+					{
+						"Key": "it_d_tpboost2",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "it_d_premium_wings",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "it_n_raid_drop_boost1"
+				},
+				"Keys": [
+					{
+						"Key": "it_n_raid_drop_boost1",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "it_n_raidticket"
+				"Source":
+				{
+					"Text": "it_d_raid_drop_boost1"
+				},
+				"Keys": [
+					{
+						"Key": "it_d_raid_drop_boost1",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "it_n_raidticket",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "it_n_raid_drop_boost2"
+				},
+				"Keys": [
+					{
+						"Key": "it_n_raid_drop_boost2",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "it_d_raidticket"
+				"Source":
+				{
+					"Text": "it_d_raid_drop_boost2"
+				},
+				"Keys": [
+					{
+						"Key": "it_d_raid_drop_boost2",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "it_d_raidticket",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "it_n_individual_boost1"
+				},
+				"Keys": [
+					{
+						"Key": "it_n_individual_boost1",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "it_n_premium_raidticket"
+				"Source":
+				{
+					"Text": "it_d_individual_boost1"
+				},
+				"Keys": [
+					{
+						"Key": "it_d_individual_boost1",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "it_n_premium_raidticket",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "it_n_individual_boost2"
+				},
+				"Keys": [
+					{
+						"Key": "it_n_individual_boost2",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "it_d_premium_raidticket"
+				"Source":
+				{
+					"Text": "it_d_individual_boost2"
+				},
+				"Keys": [
+					{
+						"Key": "it_d_individual_boost2",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "it_d_premium_raidticket",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "it_n_wings"
+				},
+				"Keys": [
+					{
+						"Key": "it_n_wings",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "it_n_piece_lv_enhance_material"
+				"Source":
+				{
+					"Text": "it_d_wings"
+				},
+				"Keys": [
+					{
+						"Key": "it_d_wings",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "it_n_piece_lv_enhance_material",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "it_n_premium_wings"
+				},
+				"Keys": [
+					{
+						"Key": "it_n_premium_wings",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "it_d_piece_lv_enhance_material"
+				"Source":
+				{
+					"Text": "it_d_premium_wings"
+				},
+				"Keys": [
+					{
+						"Key": "it_d_premium_wings",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "it_d_piece_lv_enhance_material",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "it_n_raidticket"
+				},
+				"Keys": [
+					{
+						"Key": "it_n_raidticket",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "it_n_key_blade_baterial"
+				"Source":
+				{
+					"Text": "it_d_raidticket"
+				},
+				"Keys": [
+					{
+						"Key": "it_d_raidticket",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "it_n_key_blade_baterial",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "it_n_premium_raidticket"
+				},
+				"Keys": [
+					{
+						"Key": "it_n_premium_raidticket",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "it_d_key_blade_baterial"
+				"Source":
+				{
+					"Text": "it_d_premium_raidticket"
+				},
+				"Keys": [
+					{
+						"Key": "it_d_premium_raidticket",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "it_d_key_blade_baterial",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "it_n_piece_lv_enhance_material"
+				},
+				"Keys": [
+					{
+						"Key": "it_n_piece_lv_enhance_material",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "it_n_passive_lv_enhance_material"
+				"Source":
+				{
+					"Text": "it_d_piece_lv_enhance_material"
+				},
+				"Keys": [
+					{
+						"Key": "it_d_piece_lv_enhance_material",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "it_n_passive_lv_enhance_material",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "it_n_key_blade_baterial"
+				},
+				"Keys": [
+					{
+						"Key": "it_n_key_blade_baterial",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "it_d_passive_lv_enhance_material"
+				"Source":
+				{
+					"Text": "it_d_key_blade_baterial"
+				},
+				"Keys": [
+					{
+						"Key": "it_d_key_blade_baterial",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "it_d_passive_lv_enhance_material",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
+					"Text": "it_n_passive_lv_enhance_material"
+				},
+				"Keys": [
+					{
+						"Key": "it_n_passive_lv_enhance_material",
+						"Path": ""
+					}
+				]
+			},
 			{
-				"Text": "it_n_rename"
+				"Source":
+				{
+					"Text": "it_d_passive_lv_enhance_material"
+				},
+				"Keys": [
+					{
+						"Key": "it_d_passive_lv_enhance_material",
+						"Path": ""
+					}
+				]
 			},
-			"Keys": [
+			{
+				"Source":
 				{
-					"Key": "it_n_rename",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "it_d_rename"
-			},
-			"Keys": [
-				{
-					"Key": "it_d_rename",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "ha_n_boy_skinhead"
-			},
-			"Keys": [
-				{
-					"Key": "ha_n_boy_skinhead",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "ha_n_boy_short"
-			},
-			"Keys": [
-				{
-					"Key": "ha_n_boy_short",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "ha_n_boy_middle"
-			},
-			"Keys": [
-				{
-					"Key": "ha_n_boy_middle",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "ha_n_boy_long"
-			},
-			"Keys": [
-				{
-					"Key": "ha_n_boy_long",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "ha_n_girl_skinhead"
-			},
-			"Keys": [
-				{
-					"Key": "ha_n_girl_skinhead",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "ha_n_girl_short"
-			},
-			"Keys": [
-				{
-					"Key": "ha_n_girl_short",
-					"Path": ""
-				}
-			]
-		},
-		{
-			"Source":
-			{
-				"Text": "ha_n_girl_middle"
-			},
-			"Keys": [
-				{
-					"Key": "ha_n_girl_middle",
-					"Path": ""
-				}
-			]
-		},
-	]
-}
+					"Text": "it_n_rename"
+				},
+				"Keys": [
+					{
+						"Key": "it_n_rename",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "it_d_rename"
+				},
+				"Keys": [
+					{
+						"Key": "it_d_rename",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ha_n_boy_skinhead"
+				},
+				"Keys": [
+					{
+						"Key": "ha_n_boy_skinhead",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ha_n_boy_short"
+				},
+				"Keys": [
+					{
+						"Key": "ha_n_boy_short",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ha_n_boy_middle"
+				},
+				"Keys": [
+					{
+						"Key": "ha_n_boy_middle",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ha_n_boy_long"
+				},
+				"Keys": [
+					{
+						"Key": "ha_n_boy_long",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ha_n_girl_skinhead"
+				},
+				"Keys": [
+					{
+						"Key": "ha_n_girl_skinhead",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ha_n_girl_short"
+				},
+				"Keys": [
+					{
+						"Key": "ha_n_girl_short",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ha_n_girl_middle"
+				},
+				"Keys": [
+					{
+						"Key": "ha_n_girl_middle",
+						"Path": ""
+					}
+				]
+			},
+		]
+	}		{
+				"Source":
+				{
+					"Text": "テキストID
+（カテゴリID＋識別名称）"
+				},
+				"Keys": [
+					{
+						"Key": "テキストID
+（カテゴリID＋識別名称）",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "TextID"
+				},
+				"Keys": [
+					{
+						"Key": "TextID",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "string"
+				},
+				"Keys": [
+					{
+						"Key": "string",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "1"
+				},
+				"Keys": [
+					{
+						"Key": "1",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "1"
+				},
+				"Keys": [
+					{
+						"Key": "1",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "dummy"
+				},
+				"Keys": [
+					{
+						"Key": "dummy",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "kb_n_none"
+				},
+				"Keys": [
+					{
+						"Key": "kb_n_none",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "kb_n_star"
+				},
+				"Keys": [
+					{
+						"Key": "kb_n_star",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "kb_n_rock"
+				},
+				"Keys": [
+					{
+						"Key": "kb_n_rock",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "km_n_none"
+				},
+				"Keys": [
+					{
+						"Key": "km_n_none",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "km_f_none"
+				},
+				"Keys": [
+					{
+						"Key": "km_f_none",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "km_n_mithril"
+				},
+				"Keys": [
+					{
+						"Key": "km_n_mithril",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "km_f_mithril"
+				},
+				"Keys": [
+					{
+						"Key": "km_f_mithril",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "km_n_herbleaf"
+				},
+				"Keys": [
+					{
+						"Key": "km_n_herbleaf",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "km_f_herbleaf"
+				},
+				"Keys": [
+					{
+						"Key": "km_f_herbleaf",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "km_n_copper"
+				},
+				"Keys": [
+					{
+						"Key": "km_n_copper",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "km_f_copper"
+				},
+				"Keys": [
+					{
+						"Key": "km_f_copper",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "km_n_clearwater"
+				},
+				"Keys": [
+					{
+						"Key": "km_n_clearwater",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "km_f_clearwater"
+				},
+				"Keys": [
+					{
+						"Key": "km_f_clearwater",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "pi_n_sora1"
+				},
+				"Keys": [
+					{
+						"Key": "pi_n_sora1",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "pi_f_sora1"
+				},
+				"Keys": [
+					{
+						"Key": "pi_f_sora1",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "pi_n_sora3"
+				},
+				"Keys": [
+					{
+						"Key": "pi_n_sora3",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "pi_f_sora3"
+				},
+				"Keys": [
+					{
+						"Key": "pi_f_sora3",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "pi_n_gufi1"
+				},
+				"Keys": [
+					{
+						"Key": "pi_n_gufi1",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "pi_f_gufi1"
+				},
+				"Keys": [
+					{
+						"Key": "pi_f_gufi1",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "pi_n_gufi3"
+				},
+				"Keys": [
+					{
+						"Key": "pi_n_gufi3",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "pi_f_gufi3"
+				},
+				"Keys": [
+					{
+						"Key": "pi_f_gufi3",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "pi_n_dona1"
+				},
+				"Keys": [
+					{
+						"Key": "pi_n_dona1",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "pi_f_dona1"
+				},
+				"Keys": [
+					{
+						"Key": "pi_f_dona1",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "pi_n_dona3"
+				},
+				"Keys": [
+					{
+						"Key": "pi_n_dona3",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "pi_f_dona3"
+				},
+				"Keys": [
+					{
+						"Key": "pi_f_dona3",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "aa_n_none"
+				},
+				"Keys": [
+					{
+						"Key": "aa_n_none",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "aa_d_none"
+				},
+				"Keys": [
+					{
+						"Key": "aa_d_none",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "aa_n_fireattack"
+				},
+				"Keys": [
+					{
+						"Key": "aa_n_fireattack",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "aa_d_fireattack"
+				},
+				"Keys": [
+					{
+						"Key": "aa_d_fireattack",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "aa_n_longreflect"
+				},
+				"Keys": [
+					{
+						"Key": "aa_n_longreflect",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "aa_d_longreflect"
+				},
+				"Keys": [
+					{
+						"Key": "aa_d_longreflect",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "aa_n_blizzard"
+				},
+				"Keys": [
+					{
+						"Key": "aa_n_blizzard",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "aa_d_blizzard"
+				},
+				"Keys": [
+					{
+						"Key": "aa_d_blizzard",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "pa_n_none"
+				},
+				"Keys": [
+					{
+						"Key": "pa_n_none",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "pa_d_none"
+				},
+				"Keys": [
+					{
+						"Key": "pa_d_none",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "pa_n_hpup"
+				},
+				"Keys": [
+					{
+						"Key": "pa_n_hpup",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "pa_d_hpup"
+				},
+				"Keys": [
+					{
+						"Key": "pa_d_hpup",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "pa_n_mpup"
+				},
+				"Keys": [
+					{
+						"Key": "pa_n_mpup",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "pa_d_mpup"
+				},
+				"Keys": [
+					{
+						"Key": "pa_d_mpup",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "pa_n_attackup"
+				},
+				"Keys": [
+					{
+						"Key": "pa_n_attackup",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "pa_d_attackup"
+				},
+				"Keys": [
+					{
+						"Key": "pa_d_attackup",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "pa_n_comboplus"
+				},
+				"Keys": [
+					{
+						"Key": "pa_n_comboplus",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "pa_d_comboplus"
+				},
+				"Keys": [
+					{
+						"Key": "pa_d_comboplus",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "tf_n_red"
+				},
+				"Keys": [
+					{
+						"Key": "tf_n_red",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "tf_n_black"
+				},
+				"Keys": [
+					{
+						"Key": "tf_n_black",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "tf_n_white"
+				},
+				"Keys": [
+					{
+						"Key": "tf_n_white",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "tf_n_gold"
+				},
+				"Keys": [
+					{
+						"Key": "tf_n_gold",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "tf_n_blue"
+				},
+				"Keys": [
+					{
+						"Key": "tf_n_blue",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "tr_n_sorcerer"
+				},
+				"Keys": [
+					{
+						"Key": "tr_n_sorcerer",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "tr_n_swordsman"
+				},
+				"Keys": [
+					{
+						"Key": "tr_n_swordsman",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "tr_n_pierrot"
+				},
+				"Keys": [
+					{
+						"Key": "tr_n_pierrot",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "tr_n_beginner"
+				},
+				"Keys": [
+					{
+						"Key": "tr_n_beginner",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "tr_n_master"
+				},
+				"Keys": [
+					{
+						"Key": "tr_n_master",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "of_n_m_trick_or_treat_hat"
+				},
+				"Keys": [
+					{
+						"Key": "of_n_m_trick_or_treat_hat",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "of_n_m_trick_or_treat_top"
+				},
+				"Keys": [
+					{
+						"Key": "of_n_m_trick_or_treat_top",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "of_n_m_trick_or_treat_watch"
+				},
+				"Keys": [
+					{
+						"Key": "of_n_m_trick_or_treat_watch",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "of_n_m_trick_or_treat_gloves"
+				},
+				"Keys": [
+					{
+						"Key": "of_n_m_trick_or_treat_gloves",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "of_n_m_trick_or_treat_bottom"
+				},
+				"Keys": [
+					{
+						"Key": "of_n_m_trick_or_treat_bottom",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "of_n_m_trick_or_treat_shoes"
+				},
+				"Keys": [
+					{
+						"Key": "of_n_m_trick_or_treat_shoes",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "of_n_l_trick_or_treat_hat"
+				},
+				"Keys": [
+					{
+						"Key": "of_n_l_trick_or_treat_hat",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "of_n_l_trick_or_treat_top"
+				},
+				"Keys": [
+					{
+						"Key": "of_n_l_trick_or_treat_top",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "of_n_l_trick_or_treat_watch"
+				},
+				"Keys": [
+					{
+						"Key": "of_n_l_trick_or_treat_watch",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "of_n_l_trick_or_treat_gloves"
+				},
+				"Keys": [
+					{
+						"Key": "of_n_l_trick_or_treat_gloves",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "of_n_l_trick_or_treat_bottom"
+				},
+				"Keys": [
+					{
+						"Key": "of_n_l_trick_or_treat_bottom",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "of_n_l_trick_or_treat_shoes"
+				},
+				"Keys": [
+					{
+						"Key": "of_n_l_trick_or_treat_shoes",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ap_n_m_arm_specter"
+				},
+				"Keys": [
+					{
+						"Key": "ap_n_m_arm_specter",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ap_n_l_arm_specter"
+				},
+				"Keys": [
+					{
+						"Key": "ap_n_l_arm_specter",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ap_n_simple_hair_ornament"
+				},
+				"Keys": [
+					{
+						"Key": "ap_n_simple_hair_ornament",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ap_n_simple_watch"
+				},
+				"Keys": [
+					{
+						"Key": "ap_n_simple_watch",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ac_n_ability_ring"
+				},
+				"Keys": [
+					{
+						"Key": "ac_n_ability_ring",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ac_d_ability_ring"
+				},
+				"Keys": [
+					{
+						"Key": "ac_d_ability_ring",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ac_n_silver_neckless"
+				},
+				"Keys": [
+					{
+						"Key": "ac_n_silver_neckless",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ac_d_silver_neckless"
+				},
+				"Keys": [
+					{
+						"Key": "ac_d_silver_neckless",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_n_volume_0"
+				},
+				"Keys": [
+					{
+						"Key": "ar_n_volume_0",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_n_volume_1"
+				},
+				"Keys": [
+					{
+						"Key": "ar_n_volume_1",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_n_volume_2"
+				},
+				"Keys": [
+					{
+						"Key": "ar_n_volume_2",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_n_volume_3"
+				},
+				"Keys": [
+					{
+						"Key": "ar_n_volume_3",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_n_volume_4"
+				},
+				"Keys": [
+					{
+						"Key": "ar_n_volume_4",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_1001"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_1001",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_2001"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_2001",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_2002"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_2002",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_2003"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_2003",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_2004"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_2004",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_2005"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_2005",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_2006"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_2006",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_2007"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_2007",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_3001"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_3001",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_3002"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_3002",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_3003"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_3003",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_4001"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_4001",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_5001"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_5001",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_6001"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_6001",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_6002"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_6002",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_7001"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_7001",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_7002"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_7002",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9001"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9001",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9002"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9002",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9003"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9003",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9004"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9004",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9005"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9005",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9006"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9006",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9007"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9007",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9008"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9008",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9009"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9009",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9010"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9010",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9011"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9011",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9012"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9012",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9013"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9013",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9014"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9014",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9015"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9015",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9016"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9016",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9017"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9017",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9018"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9018",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9019"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9019",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9020"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9020",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9021"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9021",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9022"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9022",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9023"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9023",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9024"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9024",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9025"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9025",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9026"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9026",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9027"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9027",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9028"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9028",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9029"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9029",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9030"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9030",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9031"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9031",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9032"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9032",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9033"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9033",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9034"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9034",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9035"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9035",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9036"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9036",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9037"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9037",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9038"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9038",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9039"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9039",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9040"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9040",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ar_c_9041"
+				},
+				"Keys": [
+					{
+						"Key": "ar_c_9041",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "it_n_potion"
+				},
+				"Keys": [
+					{
+						"Key": "it_n_potion",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "it_d_potion"
+				},
+				"Keys": [
+					{
+						"Key": "it_d_potion",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "it_n_hi-potion"
+				},
+				"Keys": [
+					{
+						"Key": "it_n_hi-potion",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "it_d_hi-potion"
+				},
+				"Keys": [
+					{
+						"Key": "it_d_hi-potion",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "it_n_mega-potion"
+				},
+				"Keys": [
+					{
+						"Key": "it_n_mega-potion",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "it_d_mega-potion"
+				},
+				"Keys": [
+					{
+						"Key": "it_d_mega-potion",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "it_n_ether"
+				},
+				"Keys": [
+					{
+						"Key": "it_n_ether",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "it_d_ether"
+				},
+				"Keys": [
+					{
+						"Key": "it_d_ether",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "it_n_hi-ether"
+				},
+				"Keys": [
+					{
+						"Key": "it_n_hi-ether",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "it_d_hi-ether"
+				},
+				"Keys": [
+					{
+						"Key": "it_d_hi-ether",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "it_n_mega-ether"
+				},
+				"Keys": [
+					{
+						"Key": "it_n_mega-ether",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "it_d_mega-ether"
+				},
+				"Keys": [
+					{
+						"Key": "it_d_mega-ether",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "it_n_elixir"
+				},
+				"Keys": [
+					{
+						"Key": "it_n_elixir",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "it_d_elixir"
+				},
+				"Keys": [
+					{
+						"Key": "it_d_elixir",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "it_n_incense1"
+				},
+				"Keys": [
+					{
+						"Key": "it_n_incense1",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "it_d_incense1"
+				},
+				"Keys": [
+					{
+						"Key": "it_d_incense1",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "it_n_incense2"
+				},
+				"Keys": [
+					{
+						"Key": "it_n_incense2",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "it_d_incense2"
+				},
+				"Keys": [
+					{
+						"Key": "it_d_incense2",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "it_n_rushing1"
+				},
+				"Keys": [
+					{
+						"Key": "it_n_rushing1",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "it_d_rushing1"
+				},
+				"Keys": [
+					{
+						"Key": "it_d_rushing1",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "it_n_rushing2"
+				},
+				"Keys": [
+					{
+						"Key": "it_n_rushing2",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "it_d_rushing2"
+				},
+				"Keys": [
+					{
+						"Key": "it_d_rushing2",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "it_n_lure1"
+				},
+				"Keys": [
+					{
+						"Key": "it_n_lure1",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "it_d_lure1"
+				},
+				"Keys": [
+					{
+						"Key": "it_d_lure1",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "it_n_lure2"
+				},
+				"Keys": [
+					{
+						"Key": "it_n_lure2",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "it_d_lure2"
+				},
+				"Keys": [
+					{
+						"Key": "it_d_lure2",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "it_n_tpboost1"
+				},
+				"Keys": [
+					{
+						"Key": "it_n_tpboost1",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "it_d_tpboost1"
+				},
+				"Keys": [
+					{
+						"Key": "it_d_tpboost1",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "it_n_tpboost2"
+				},
+				"Keys": [
+					{
+						"Key": "it_n_tpboost2",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "it_d_tpboost2"
+				},
+				"Keys": [
+					{
+						"Key": "it_d_tpboost2",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "it_n_raid_drop_boost1"
+				},
+				"Keys": [
+					{
+						"Key": "it_n_raid_drop_boost1",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "it_d_raid_drop_boost1"
+				},
+				"Keys": [
+					{
+						"Key": "it_d_raid_drop_boost1",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "it_n_raid_drop_boost2"
+				},
+				"Keys": [
+					{
+						"Key": "it_n_raid_drop_boost2",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "it_d_raid_drop_boost2"
+				},
+				"Keys": [
+					{
+						"Key": "it_d_raid_drop_boost2",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "it_n_individual_boost1"
+				},
+				"Keys": [
+					{
+						"Key": "it_n_individual_boost1",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "it_d_individual_boost1"
+				},
+				"Keys": [
+					{
+						"Key": "it_d_individual_boost1",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "it_n_individual_boost2"
+				},
+				"Keys": [
+					{
+						"Key": "it_n_individual_boost2",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "it_d_individual_boost2"
+				},
+				"Keys": [
+					{
+						"Key": "it_d_individual_boost2",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "it_n_wings"
+				},
+				"Keys": [
+					{
+						"Key": "it_n_wings",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "it_d_wings"
+				},
+				"Keys": [
+					{
+						"Key": "it_d_wings",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "it_n_premium_wings"
+				},
+				"Keys": [
+					{
+						"Key": "it_n_premium_wings",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "it_d_premium_wings"
+				},
+				"Keys": [
+					{
+						"Key": "it_d_premium_wings",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "it_n_raidticket"
+				},
+				"Keys": [
+					{
+						"Key": "it_n_raidticket",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "it_d_raidticket"
+				},
+				"Keys": [
+					{
+						"Key": "it_d_raidticket",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "it_n_premium_raidticket"
+				},
+				"Keys": [
+					{
+						"Key": "it_n_premium_raidticket",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "it_d_premium_raidticket"
+				},
+				"Keys": [
+					{
+						"Key": "it_d_premium_raidticket",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "it_n_piece_lv_enhance_material"
+				},
+				"Keys": [
+					{
+						"Key": "it_n_piece_lv_enhance_material",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "it_d_piece_lv_enhance_material"
+				},
+				"Keys": [
+					{
+						"Key": "it_d_piece_lv_enhance_material",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "it_n_key_blade_baterial"
+				},
+				"Keys": [
+					{
+						"Key": "it_n_key_blade_baterial",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "it_d_key_blade_baterial"
+				},
+				"Keys": [
+					{
+						"Key": "it_d_key_blade_baterial",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "it_n_passive_lv_enhance_material"
+				},
+				"Keys": [
+					{
+						"Key": "it_n_passive_lv_enhance_material",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "it_d_passive_lv_enhance_material"
+				},
+				"Keys": [
+					{
+						"Key": "it_d_passive_lv_enhance_material",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "it_n_rename"
+				},
+				"Keys": [
+					{
+						"Key": "it_n_rename",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "it_d_rename"
+				},
+				"Keys": [
+					{
+						"Key": "it_d_rename",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ha_n_boy_skinhead"
+				},
+				"Keys": [
+					{
+						"Key": "ha_n_boy_skinhead",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ha_n_boy_short"
+				},
+				"Keys": [
+					{
+						"Key": "ha_n_boy_short",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ha_n_boy_middle"
+				},
+				"Keys": [
+					{
+						"Key": "ha_n_boy_middle",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ha_n_boy_long"
+				},
+				"Keys": [
+					{
+						"Key": "ha_n_boy_long",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ha_n_girl_skinhead"
+				},
+				"Keys": [
+					{
+						"Key": "ha_n_girl_skinhead",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ha_n_girl_short"
+				},
+				"Keys": [
+					{
+						"Key": "ha_n_girl_short",
+						"Path": ""
+					}
+				]
+			},
+			{
+				"Source":
+				{
+					"Text": "ha_n_girl_middle"
+				},
+				"Keys": [
+					{
+						"Key": "ha_n_girl_middle",
+						"Path": ""
+					}
+				]
+			},
+		]
+	}
