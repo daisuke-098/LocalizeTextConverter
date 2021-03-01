@@ -106,12 +106,12 @@ func main() {
 	}
 
 	manifestOutput := `{
-	""FormatVersion": 1,"
+	"FormatVersion": 1,
 	"Namespace": "",
 	"Children": [
 `
 	archiveOutput := `{
-	""FormatVersion": 1,"
+	"FormatVersion": 1,
 	"Namespace": "",
 	"Children": [
 `
@@ -156,6 +156,12 @@ func main() {
 		}
 
 	}
+	strings.TrimRight(manifestOutput, ",")
+	manifestOutput += `	]
+}`
+	strings.TrimRight(archiveOutput, ",")
+	archiveOutput += `	]
+}`
 
 	//言語ごとのローカライズデータを出力する
 	manifestFile, err := os.Create(OutputDir + "Localization/ue4res_text.manifest")

@@ -1,5 +1,5 @@
 {
-	""FormatVersion": 1,"
+	"FormatVersion": 1,
 	"Namespace": "",
 	"Children": [
 		{
@@ -2440,3 +2440,5 @@
 				}
 			]
 		},
+	]
+}
